@@ -1,0 +1,22 @@
+{
+  "name": "closures-and-scope-in-javascript",
+  "version": "1.0.0",
+  "description": "Aprendiendo los closures y el scope en Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/villagrabaez/closures-and-scope-in-javascript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Bernardino Villagra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/villagrabaez/closures-and-scope-in-javascript/issues"
+  },
+  "homepage": "https://github.com/villagrabaez/closures-and-scope-in-javascript#readme"
+}

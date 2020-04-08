@@ -4,7 +4,15 @@
   "description": "Aprendiendo los closures y el scope en Javascript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "scope:global": "node src/scope/global.js",
+    "scope:local": "node src/scope/local.js",
+    "scope:function": "node src/scope/function-scope.js",
+    "scope:block": "node src/scope/block-scope.js",
+    "closures": "node src/closures/closures.js",
+    "closures:lexical": "node src/closures/lexical.js",
+    "closures:private": "node src/closures/private.js",
+    "closures:loops": "node src/closures/loops.js",
+    "hoisting": "node src/hoisting/index.js"
   },
   "repository": {
     "type": "git",
